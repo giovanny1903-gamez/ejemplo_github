@@ -18,3 +18,5 @@ elif numero_usuario < numero_sistema:
     print(f"LE FALTA. Ingresaste {numero_usuario} y el numero del sistema era {numero_sistema}.")
 else:
     print(f"LE SOBRA. Ingresaste {numero_usuario} y el numero del sistema era {numero_sistema}.")
+
+print("GRACIAS POR JUGAR")
